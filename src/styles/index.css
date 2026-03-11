@@ -1,11 +1,9 @@
-/* 
-
-    You can write your own styles here...
+.counter-box{
+    background: #111;
+    padding: 20px;
+    margin: 5px;
+    border-radius: 6px;
+    font-size: 60px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
-
-*/
+}
